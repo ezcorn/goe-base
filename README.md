@@ -1,2 +1,2 @@
-# goe-empty
-goe empty project
+# goe-base
+goe base project

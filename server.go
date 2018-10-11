@@ -13,5 +13,6 @@ import (
  */
 func main() {
 	serverName := "%s"
+
 	goe.InitServer(serverName)
 }

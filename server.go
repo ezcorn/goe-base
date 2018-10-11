@@ -12,5 +12,6 @@ import (
  * 	@author ezcorn
  */
 func main() {
-	goe.InitServer()
+	serverName := "%s"
+	goe.InitServer(serverName)
 }
